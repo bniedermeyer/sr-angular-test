@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.0...v1.1.1) (2022-04-03)
+
+
+### Bug Fixes
+
+* correct gh pages deployment ([ec397c6](https://github.com/bniedermeyer/sr-angular-test/commit/ec397c6665fb863844a779e9c6074f82c14f0512))
+
 # [1.1.0](https://github.com/bniedermeyer/sr-angular-test/compare/v1.0.0...v1.1.0) (2022-04-03)
 
 
