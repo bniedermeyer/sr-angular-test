@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/bniedermeyer/sr-angular-test/compare/v1.0.0...v1.1.0) (2022-04-03)
+
+
+### Features
+
+* add gh pages deployment ([0e0b385](https://github.com/bniedermeyer/sr-angular-test/commit/0e0b385bfcd5dd64b352dd6f68d761411daa5b56))
+
 # 1.0.0 (2022-04-03)
 
 
