@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.5...v1.1.6) (2022-04-03)
+
+
+### Bug Fixes
+
+* remove logging ([f9a071d](https://github.com/bniedermeyer/sr-angular-test/commit/f9a071d0449554bd7eb74723f5b03c66a96a3aa1))
+
 ## [1.1.5](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.4...v1.1.5) (2022-04-03)
 
 
