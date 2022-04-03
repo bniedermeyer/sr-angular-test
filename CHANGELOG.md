@@ -1,3 +1,10 @@
+## [1.1.8](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.7...v1.1.8) (2022-04-03)
+
+
+### Bug Fixes
+
+* more logging ([8d8dbae](https://github.com/bniedermeyer/sr-angular-test/commit/8d8dbaecb709a41090adadb53ff45c51192c8579))
+
 ## [1.1.7](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.6...v1.1.7) (2022-04-03)
 
 
