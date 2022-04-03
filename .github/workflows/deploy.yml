@@ -1,11 +1,11 @@
 name: Deploy App
 on:
   release:
-    types: [published]
+    types: [released]
   workflow_dispatch:
 
 jobs:
-  release:
+  deploy:
     name: Deploy to GH Pages
     runs-on: ubuntu-18.04
     steps:
@@ -15,10 +15,10 @@ jobs:
           fetch-depth: 0
       - name: Install dependencies
         run: npm ci
-      - name: Build Package
+      - name: Build
         run: npm run build
-      - name: Release
+      - name: Deploy
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           HUSKY: 0
-        run: npx ng deploy --base-href=/sr-angular/
+        run: npx ng deploy --repo=https://github.com/bniedermeyer/sr-angular-test.git
