@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.2...v1.1.3) (2022-04-03)
+
+
+### Bug Fixes
+
+* update base-href ([1334461](https://github.com/bniedermeyer/sr-angular-test/commit/1334461487601f012d2104e837978a6d65efe5ed))
+
 ## [1.1.2](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.1...v1.1.2) (2022-04-03)
 
 
