@@ -105,7 +105,9 @@
           "builder": "angular-cli-ghpages:deploy",
           "options": {
             "baseHref": "/sr-angular-test/",
-            "repo": "https://github.com/bniedermeyer/sr-angular-test"
+            "repo": "https://github.com/bniedermeyer/sr-angular-test",
+            "name": "Brenden Niedermeyer",
+            "email": "contact@brenden.dev"
           }
         }
       }
