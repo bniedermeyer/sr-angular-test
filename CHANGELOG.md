@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.3...v1.1.4) (2022-04-03)
+
+
+### Bug Fixes
+
+* add repo definition back ([3ee31f0](https://github.com/bniedermeyer/sr-angular-test/commit/3ee31f07e9b67544616b84ddaae71ebe148ecf71))
+
 ## [1.1.3](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.2...v1.1.3) (2022-04-03)
 
 
