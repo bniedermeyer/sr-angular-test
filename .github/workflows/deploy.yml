@@ -19,4 +19,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           HUSKY: 0
-        run: npx ng deploy --base-href=/sr-angular-test/ --repo=https://github.com/bniedermeyer/sr-angular-test.git
+        run: npx ng deploy --base-href=/sr-angular-test/ --no-silent
