@@ -1,3 +1,10 @@
+## [1.1.9](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.8...v1.1.9) (2022-04-03)
+
+
+### Bug Fixes
+
+* add more options to angular config ([b12629f](https://github.com/bniedermeyer/sr-angular-test/commit/b12629fee6cc3ea57a2c6f6578228de504733915))
+
 ## [1.1.8](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.7...v1.1.8) (2022-04-03)
 
 
