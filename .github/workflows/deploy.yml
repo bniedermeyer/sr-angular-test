@@ -19,6 +19,6 @@ jobs:
         run: npm run build
       - name: Deploy
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           HUSKY: 0
         run: npx ng deploy --repo=https://github.com/bniedermeyer/sr-angular-test.git
