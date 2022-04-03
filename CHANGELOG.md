@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.4...v1.1.5) (2022-04-03)
+
+
+### Bug Fixes
+
+* log issue in deploy ([57d2027](https://github.com/bniedermeyer/sr-angular-test/commit/57d20275621015f81b329f8d28495d321213aca7))
+
 ## [1.1.4](https://github.com/bniedermeyer/sr-angular-test/compare/v1.1.3...v1.1.4) (2022-04-03)
 
 
